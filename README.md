@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img  align="right" alt="coding" width="400" src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47dd5x8vcaxfdvajgl73ha6i8dgavhynfom4fh9nlp&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-sharma24&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-sharma24" /> </p>
 
-- 🌱 I’m currently learning **Javascript,NodeJS**
+- 🌱 I’m currently learning **more about Power BI and DAX**
 
 - 📫 How to reach me **sumit.sharma024@outlook.com**
 
