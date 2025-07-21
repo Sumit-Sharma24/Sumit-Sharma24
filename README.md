@@ -14,7 +14,7 @@
 - 💡 Working with real-world datasets in Python and Power BI
 - 🧠 Learning every day and sharing my journey with the world
 - 🌐 Website: [sumitsharmaportfolio.in](https://sumitsharmaportfolio.in/)
-- 📫 Reach me: **sumitsharma.portfolio@gmail.com**
+- 📫 Reach me: **sumit.sharma024@outlook.com**
 
 ---
 
@@ -59,7 +59,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sumit-sharma-a21100217/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=firefox-browser)](https://sumitsharmaportfolio.in/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/sumit705662)
 
 ---
 
