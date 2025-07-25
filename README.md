@@ -25,15 +25,15 @@
 - Used filters, KPI cards, and visuals like stacked bars and line graphs
 - **Tools**: Power BI, Excel, DAX
 
-#### ⚽ [Football Data Analysis – Python](https://github.com/yourusername/football-analysis)
-- Cleaned player statistics using Pandas
-- Created visual insights using Matplotlib and Seaborn
-- **Skills**: EDA, CSV Handling, Plotting
+#### ⚽ [Football Data Analysis – SQL](https://github.com/yourusername/football-analysis)
+- Extracted insights on team possession, matches, goal distribution, and player performance
+- Used complex SQL queries (GROUP BY, JOIN, aggregates) to analyze full match data
+- **Skills**: SQL, Data Analytics, PostgreSQL
 
-#### 🏏 [IPL 2025 Analysis – Python](https://github.com/yourusername/ipl-2025-analysis)
-- Scraped and analyzed IPL match data
-- Explored player & team performance using Python libraries
-- **Libraries**: Pandas, Seaborn, Matplotlib
+#### 🏏 [IPL 2025 Analysis – Power BI](https://github.com/yourusername/ipl-2025-analysis)
+- An interactive Power BI dashboard analyzing team performances, player stats, and match outcomes from the IPL 2025 season 
+- Extracted actionable insights such as top-performing players, most consistent teams, and winning trends across different venues
+- **Tools**: Power BI, Power Query, DAX
 
 ---
 
