@@ -1,81 +1,77 @@
 <h1 align="center">Hi there 👋 I'm Sumit Sharma</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Excel</h3>
+<h3 align="center">Data Analyst | SQL • Power BI • Excel • Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7542E&center=true&vCenter=true&width=440&lines=Turning+data+into+decisions;Power+BI+%7C+Python+%7C+SQL+%7C+Excel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7542E&center=true&vCenter=true&width=500&lines=Turning+data+into+business+decisions;SQL+%7C+Power+BI+%7C+Excel+%7C+Python" />
 </p>
 
 ---
 
 ### 🔍 About Me
 
-- 🎓 B.Tech graduate from **Kurukshetra University**
-- 📊 Passionate about extracting insights from data
-- 💡 Working with real-world datasets in Python and Power BI
-- 🧠 Learning every day and sharing my journey with the world
-- 🌐 Website: [sumitsharmaportfolio.in](https://sumitsharmaportfolio.in/)
-- 📫 Reach me: **sumit.sharma024@outlook.com**
+- 🎓 MSc Data Science (CGPA: 9.0)
+- 📊 Skilled in analyzing real-world business datasets
+- 💡 Focused on customer behavior, sales performance & trends
+- 🧠 Strong in SQL, dashboards, and data storytelling  
+- 📫 Email: **sumit.sharma024@outlook.com**
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🟡 [Sales Dashboard – Power BI](https://github.com/yourusername/sales-dashboard)
-- Built an interactive dashboard to analyze regional sales trends
-- Used filters, KPI cards, and visuals like stacked bars and line graphs
-- **Tools**: Power BI, Excel, DAX
-
-#### ⚽ [Football Data Analysis – SQL](https://github.com/yourusername/football-analysis)
-- Extracted insights on team possession, matches, goal distribution, and player performance
-- Used complex SQL queries (GROUP BY, JOIN, aggregates) to analyze full match data
-- **Skills**: SQL, Data Analytics, PostgreSQL
-
-#### 🏏 [IPL 2025 Analysis – Power BI](https://github.com/yourusername/ipl-2025-analysis)
-- An interactive Power BI dashboard analyzing team performances, player stats, and match outcomes from the IPL 2025 season 
-- Extracted actionable insights such as top-performing players, most consistent teams, and winning trends across different venues
-- **Tools**: Power BI, Power Query, DAX
+#### 🟡 Retail Analytics (SQL + Business Analysis)
+- Analyzed **5,000+ transactions, 1,000 customers, 200 products**
+- Identified **low repeat purchase rate (130 one-time customers)**
+- Performed **MoM growth analysis using SQL window functions (LAG)**
+- Found **top 10 products contribute only ~10% revenue**
+- 📌 Focus: Customer behavior, product performance, sales trends  
+- **Tools**: SQL, MySQL  
 
 ---
 
-### 🧰 Skills & Tools
+#### 📊 Sales & Order Performance Dashboard (Power BI)
+- Built dashboard analyzing sales across regions, managers, and customers  
+- Found **60% of managers underperforming**, impacting targets  
+- Identified **sales concentration in limited regions**  
+- Highlighted key drivers of sales variability  
+- 📌 Focus: Performance analysis, business insights  
+- **Tools**: Power BI, DAX, Excel  
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/power-bi/)
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)](https://pandas.pydata.org/docs/)
-[![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://support.microsoft.com/en-us/excel)
+---
+
+#### 📈 CPI & COVID Impact Analysis (Excel)
+- Analyzed CPI data (2013–2023) for inflation trends  
+- Compared **pre vs post COVID impact on inflation**  
+- Identified key categories driving inflation changes  
+- Visualized trends using Pivot Tables and charts  
+- 📌 Focus: Time-series analysis, economic insights  
+- **Tools**: Excel  
+
+---
+
+### 🧰 Skills
+
+- **Languages**: SQL, Python  
+- **Libraries**: Pandas, NumPy  
+- **Visualization**: Power BI, Matplotlib  
+- **Tools**: Excel, Power Query, DAX, Git  
 
 ---
 
 ### 🔄 What I’m Working On
 
-- New data stories using public datasets  
-- A blog explaining insights from Power BI dashboards  
-- Improving my Python and SQL skills through hands-on mini projects
+- Improving SQL & case-based problem solving  
+- Building business-focused data projects  
+- Writing insights from dashboards  
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sumit-sharma-a21100217/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=firefox-browser)](https://sumitsharmaportfolio.in/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/sumit705662)
+[LinkedIn](https://linkedin.com/in/sumit-sharma-a21100217/)  
+[Email](sumit.sharma024@outlook.com)
+
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit-sharma24&show_icons=true&theme=dracula" alt="sumit's github stats" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-sharma24&layout=compact&theme=dracula" alt="Top languages" width="47%" />
-</p>
-
----
-
-### 💬 Let's Collaborate
-
-Have a dataset idea? Want to build a dashboard together? Feel free to reach out. I’m always open to connect, learn, and build something cool with data!
-
----
-
-<p align="center">✨ Thank you for visiting! Keep exploring, keep growing ✨</p>
+<p align="center">🚀 Focused on turning data into real business impact</p>
